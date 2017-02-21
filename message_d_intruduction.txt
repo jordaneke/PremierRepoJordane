@@ -1,0 +1,2 @@
+Bonjour ayant pour projet de devenir développeur Android,
+je continue ma formation sur openclassrooms pour apprend a utiliser Git GitHub et ainsi pouvoir utilisé le versionning.
